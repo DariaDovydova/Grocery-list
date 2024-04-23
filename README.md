@@ -1,7 +1,5 @@
 # Getting Started with Create React App
- <a href="https://github.com/DariaDovydova/Grocery-list/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-  </a>
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
